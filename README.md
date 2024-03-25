@@ -1,6 +1,6 @@
 `npx joselito`
 
-- [joselito.bio](https://joselito.bio)
 - [joseli.to](https://joseli.to)
+- [joselito.bio](https://joselito.bio)
 
-![Wakapi](https://github-readme-stats.vercel.app/api/wakatime?username=joselito&api_domain=wakapi.joselito.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+![Status](https://github-readme-stats.vercel.app/api/wakatime?username=joselito&api_domain=wakapi.joselito.dev&bg_color=152540&title_color=95cad9&icon_color=95cad9&text_color=fcf3e4&custom_title=Coding%20Stats)
