@@ -1,5 +1,3 @@
-![](Joselito.svg)
-
 ```bash
 $ npx joselito
 ```
